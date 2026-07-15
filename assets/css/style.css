@@ -1261,6 +1261,15 @@ a.card {
   margin-bottom: 20px;
 }
 
+.team-card .portrait-img {
+  width: 88px;
+  height: 88px;
+  border-radius: 24px;
+  object-fit: cover;
+  margin-bottom: 20px;
+  display: block;
+}
+
 .team-card .role {
   display: inline-block;
   color: var(--primary);
